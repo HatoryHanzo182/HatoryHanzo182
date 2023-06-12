@@ -1,19 +1,5 @@
-<style>
-  .container {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    height: 300px; 
-  }
-  
-  .content {
-    text-align: right;
-    padding-right: 20px; /* Отступ справа для контента */
-  }
-</style>
-
-<div class="container">
-  <div class="content">
+<div style="display: flex; justify-content: flex-end; align-items: center; height: 300px;">
+  <div style="text-align: right; padding-right: 20px;">
     <h1>Hi there, I'm Hanzo 
       <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Hi GIF">
     </h1>
