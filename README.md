@@ -1,1 +1,1 @@
-<img src="https://github.com/HatoryHanzo182/hatory_hanzo/assets/55142468/16ff01d3-2ba1-4a5f-8604-b0cfeb0cfa7e" alt="Название изображения">
+<img src="https://github.com/HatoryHanzo182/HatoryHanzo182/assets/55142468/6030c81b-dafc-43f2-9dc5-90863eb49ca6" alt="Название изображения">
