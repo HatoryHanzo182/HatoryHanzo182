@@ -5,5 +5,5 @@
     </h1>
     <h3>A student of a computer academy is a step from Odessa and I like programming for myself</h3>
   </div>
-  <img src="https://github.com/HatoryHanzo182/HatoryHanzo182/assets/55142468/6030c81b-dafc-43f2-9dc5-90863eb49ca6" width="300" height="300" alt="Welcome">
+  <img src="https://github.com/HatoryHanzo182/HatoryHanzo182/assets/55142468/86de649c-cb87-4601-87bb-06478df3e028" width="300" height="300" alt="Welcome">
 </div>
